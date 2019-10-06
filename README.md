@@ -1,2 +1,2 @@
 # course-progenMS-devR
-R Tutorial Dev (draft).
+MS Tutorial Dev (draft).
