@@ -9,4 +9,4 @@ Run in browser, free with Binder, by clicking 'launch binder' badge (can be slow
 
 <i> Example Data </i> <br>
 Progenesis QI - user guide and tutorial data set @ www.nonlinear.com/progenesis/qi/v2.4/user-guide. <br>
-[some <i>Example_Metadata</i> simulated]
+*some <i>Example_Metadata</i> simulated
