@@ -8,5 +8,5 @@ prior to statistical modelling. <br>
 Run in browser, free with Binder, by clicking 'launch binder' badge (can be slow).
 
 <i> Example Data </i> <br>
-Progenesis QI - user guide and tutorial data set @ www.nonlinear.com/progenesis/qi/v2.4/user-guide. <br>
+Progenesis QI - user guide and tutorial data set @ www.nonlinear.com/progenesis/qi/v2.4/user-guide (Ion Mobility HDMSe LC-MS). <br>
 ( *simulated <i>Example Metadata</i> )
